@@ -1,0 +1,51 @@
+{
+  "term": "Spring",
+  "year": "2009",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Mechanical Design"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Robotics and Control Systems"
+    ]
+  ],
+  "legacy_uid": "544c9de4-c256-0a9a-8188-de7e5c714925",
+  "instructors": {
+    "content": [
+      "ce2a794a-3bd9-f266-68f3-776c1b372455",
+      "d8448dbe-58d6-c95a-bc98-25b2575a1fdd"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "40036a16-7620-d5db-d099-a55e242f542b",
+    "website": "2-007-design-and-manufacturing-i-spring-2009"
+  },
+  "course_title": "Design and Manufacturing I",
+  "course_description": "Welcome to 2.007! This course is a first subject in engineering design. With your help, this course will be a great learning experience exposing you to interesting material, challenging you to think deeply, and providing skills useful in professional practice. A major element of the course is design of a robot to participate in a challenge that changes from year to year. This year, the theme is cleaning up the planet as inspired by the movie _Wall-E_.\n\nFrom its beginnings in 1970, the 2.007 final project competition has grown into an Olympics of engineering.\u00a0 See this [MIT News story](http://web.mit.edu/newsoffice/2011/timeline-2007-0209.html) for more background, a photo gallery, and videos about this course.\n",
+  "department_numbers": [
+    "2"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "2.007",
+  "course_image_thumbnail": {
+    "content": "60cfbda7-4efc-d2b9-178a-12059a8fb9eb",
+    "website": "2-007-design-and-manufacturing-i-spring-2009"
+  },
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Competition Videos",
+    "Exams with Solutions",
+    "Lecture Notes",
+    "Projects with Examples"
+  ],
+  "site_uid": "63a60b9f-277e-4cbb-bce4-7a901d79e26d",
+  "title": "Course Metadata"
+}
